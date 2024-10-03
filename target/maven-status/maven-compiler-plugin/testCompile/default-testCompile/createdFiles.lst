@@ -1,0 +1,4 @@
+com/automation/BaseTest.class
+com/automation/SeleniumTest.class
+com/automation/utils/BrowserManager.class
+com/automation/utils/PropertiesLoader.class
